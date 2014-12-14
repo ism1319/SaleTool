@@ -8,5 +8,8 @@ public class SampleDisplay {
 	public void displayData(){
 		
 		System.out.println("Inside displayData");
+		for(int i=0;i<data.length;i++){
+			System.out.println("");
+		}
 	}
 }
