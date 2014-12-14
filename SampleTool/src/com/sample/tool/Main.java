@@ -10,9 +10,9 @@ public class Main {
 	}
 
 	public static void displayMessage(){
-		System.out.println("INSIDE DISPLAY MESSAGE");
-		System.out.println("INSIDE GIT DEMO");
-		System.out.println("Additional syso");
+		System.out.println("Inside display message ");
+		System.out.println("Inside display demo");
+		System.out.println("-----------------");
 		
 		System.out.println("Addeed second syso");
 	}
