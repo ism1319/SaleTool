@@ -14,6 +14,6 @@ public class Main {
 		System.out.println("Inside display demo");
 		System.out.println("-----------------");
 		
-		System.out.println("Addeed second syso11 Tested");
+		System.out.println("Addeed second syso");
 	}
 }
