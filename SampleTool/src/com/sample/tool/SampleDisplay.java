@@ -18,7 +18,7 @@ public class SampleDisplay {
 		
 		int sum =0;
 
-		System.out.println("Inside displayData");
+		System.out.println("Inside displayData CLeaned");
 
 		for (int i : data) {
 
@@ -27,8 +27,5 @@ public class SampleDisplay {
 		}
 
 		System.out.println("Summed number :"+sum);
-
-		System.out.println("Sum sales data :"+sum);
-
 	}
 }

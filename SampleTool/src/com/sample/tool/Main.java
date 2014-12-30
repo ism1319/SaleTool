@@ -4,6 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("Added main ");
 		SampleDisplay data = new SampleDisplay();
 		displayMessage();
 		data.displayData();
