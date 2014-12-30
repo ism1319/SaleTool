@@ -10,10 +10,10 @@ public class Main {
 	}
 
 	public static void displayMessage(){
-		System.out.println("Inside display message ");
+		System.out.println("Inside display message Cleaned  ");
 		System.out.println("Inside display demo");
-		System.out.println("-----------------");
 		
-		System.out.println("Addeed second syso11");
+		
+		
 	}
 }
